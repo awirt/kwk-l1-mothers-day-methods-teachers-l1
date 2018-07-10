@@ -12,6 +12,6 @@ end
 # say_hello ("charlie")
 
 say_hello("brad","brody")
-say_hello("","Rachana")
+say_hello(*"Rachana")
 say_hello()
 puts "how is life in canada <3? "
